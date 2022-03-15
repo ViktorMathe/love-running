@@ -126,7 +126,6 @@ h1,h2 {
     padding-top: 30px;
     width: 33%;
     float: right;
-    background-color: silver;
 }
 
 #center-about{
@@ -164,4 +163,10 @@ hr{
 
 .right-about-heading p{
     text-align: right;
+}
+
+#welcome {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 280%;
 }
